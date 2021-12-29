@@ -16,3 +16,5 @@ Home Activity: Now we will create an activity where there will be able to see al
 Create Note Activity: Where the user will enter the title and description of his Notes/Passwords and save it.
 
 Each Note/Password will additionally have a functionality of Edit, View and Delete.
+
+All the xml files are available in res>layouts.
