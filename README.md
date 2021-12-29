@@ -18,3 +18,5 @@ Create Note Activity: Where the user will enter the title and description of his
 Each Note/Password will additionally have a functionality of Edit, View and Delete.
 
 All the xml files are available in res>layouts.
+
+All java files are available in java/com/example/ordinata.
